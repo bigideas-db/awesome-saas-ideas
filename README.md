@@ -912,6 +912,9 @@ Yes, this one. It is regenerated monthly from BigIdeasDB data, ranks 450+ entrie
 * [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - Mobile and app ideas ranked by review complaints.
 * [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - What SaaS businesses sell for.
 * [Awesome Buy a Business](https://github.com/bigideas-db/awesome-buy-a-business) - Businesses to buy, ranked by buyer fit.
+* [Awesome Startup Ideas](https://github.com/bigideas-db/awesome-startup-ideas) - Startup ideas ranked by funding momentum, paying demand and complaints.
+* [Awesome AI Business Ideas](https://github.com/bigideas-db/awesome-ai-business-ideas) - AI agent, automation agency and AI SaaS ideas ranked by operator volume and software gaps.
+* [Awesome Idea Validation](https://github.com/bigideas-db/awesome-idea-validation) - How to validate an idea: checklist, benchmark numbers to beat and market sizing.
 
 ## Cite this list
 
